@@ -1,0 +1,26 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "Practice with Express.js",
+  "main": "server.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "scripts": {
+    "dev": "",
+    "test": ""
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
